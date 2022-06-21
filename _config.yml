@@ -12,7 +12,7 @@ style: styles-6
 
 #Profile information
 name: Nicholas Dean
-tagline: Solution Consultant
+tagline: 
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'SaaS professional specializing in system implementation, administration, and process improvement.'
 

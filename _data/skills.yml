@@ -2,13 +2,13 @@
   name: SaaS Implementation and Support
   level: 100%
 - skill:
+  name: Process Imrpovement 
+  level: 100% 
+- skill: 
+  name: Major Incident Management
+  level: 100% 
+- skill:
   name: Small Business ERP
-  level: 100%
-- skill:
-  name: Blackboard Learn & Collaborate
-  level: 100%
-- skill:
-  name: Cornerstone OnDemand
   level: 100%
 - skill:
   name: Lean Enterprise (Green Belt) 
@@ -19,3 +19,9 @@
 - skill: 
   name: Business Analysis 
   level: 100% 
+- skill:
+  name: Blackboard Learn & Collaborate
+  level: 100%
+- skill:
+  name: Cornerstone OnDemand
+  level: 100%
